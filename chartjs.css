@@ -1,0 +1,15 @@
+body {
+    display: flex;
+}
+
+.chart-container {
+    position: relative;
+    height: 40vh;
+    width: 40vw
+}
+
+.chart-container2 {
+    position: relative;
+    height: 40vh;
+    width: 40vw
+}
